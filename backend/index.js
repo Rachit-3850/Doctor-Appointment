@@ -10,7 +10,6 @@ const dotenv = require("dotenv");
 const mongoose = require("mongoose");
 const jwt = require("jsonwebtoken");
 const auth = require("./middlewares/authMiddleware.js");
-const routes = require("./routes/userRoutes.jsx");
 const moment = require("moment");
 dotenv.config();
 
