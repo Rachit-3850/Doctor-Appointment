@@ -1,0 +1,22 @@
+.form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.form {
+    width: 400px;
+}
+.header {
+    margin-bottom: 50px;
+}
+.input {
+    margin: 20px
+}
+.button {
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+

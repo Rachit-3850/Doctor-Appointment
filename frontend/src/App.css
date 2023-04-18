@@ -1,0 +1,11 @@
+.homePage {
+    display: flex;
+    flex-wrap: wrap;
+}
+.dortorList {
+    width: 300px;
+}
+.noti {
+    padding: 5px;
+
+}
